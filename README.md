@@ -25,6 +25,13 @@
    ```
 
 4. Setelah anda pindah ke **branch** yang telah anda buat, buat sebuah folder dengan nama **NIM** anda
+   ```sh
+
+   mkdir NIM_ANDA
+
+   ```
+
+
 5. Didalam folder tersebut, buat sebuah folder dengan nama **Praktikum n**, **n** = praktikum keberapa
 6. Semua _file_ untuk tugas praktikum ke-**n**, disimpan kedalam folder **Praktikum n**
 7. Setiap membuat _file_ atau melakukan perubahan, lakukan proses **commit** dengan pesan yang deskriptif
