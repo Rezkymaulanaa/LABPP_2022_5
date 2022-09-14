@@ -32,7 +32,7 @@
    ```sh
    git add .
    # atau
-   git add "Praktikum n/NIM/FileJavaYangBerubahAtauDitambahkan.py"
+   git add "Praktikum n/NIM/FilePythonYangBerubahAtauDitambahkan.py"
    git commit -m "pesan mengenai penambahan atau perubahan apa yang anda lakukan"
 
    ```
