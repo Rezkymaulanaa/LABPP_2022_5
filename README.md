@@ -8,7 +8,7 @@
 
    ```sh
 
-   git clone https://github.com/YOUR_USERNAME/tugas-praktikum-pp-2022.git
+   git clone https://github.com/YOUR_USERNAME/LABPP_2022_5.git
 
    ```
 
